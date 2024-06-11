@@ -1,5 +1,8 @@
-# Demo generating a service-side API by using an open api specification (yaml) and asp.net core
+# Demo generating a service-side API
 
+Source: open api specification (yaml)\
+Stack: asp.net core\
+\
 Generates an abstract API as a library. The web project references this library and implements the abstract API.
 
 ## Requirements
