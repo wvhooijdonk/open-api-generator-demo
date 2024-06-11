@@ -1,0 +1,6 @@
+build.sh
+build.bat
+*.sln
+README.md
+.gitignore
+*.nuspec

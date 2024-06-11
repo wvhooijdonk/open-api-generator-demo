@@ -1,0 +1,11 @@
+src/OpenApiLib/.gitignore
+src/OpenApiLib/Attributes/ValidateModelStateAttribute.cs
+src/OpenApiLib/Authentication/ApiAuthentication.cs
+src/OpenApiLib/Controllers/PetsApi.cs
+src/OpenApiLib/Converters/CustomEnumConverter.cs
+src/OpenApiLib/Formatters/InputFormatterStream.cs
+src/OpenApiLib/Models/Error.cs
+src/OpenApiLib/Models/Pet.cs
+src/OpenApiLib/OpenApiLib.csproj
+src/OpenApiLib/OpenApiLib.nuspec
+src/OpenApiLib/OpenApi/TypeExtensions.cs

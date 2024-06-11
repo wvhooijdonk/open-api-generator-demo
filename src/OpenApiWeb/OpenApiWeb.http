@@ -1,0 +1,6 @@
+@OpenApiWeb_HostAddress = http://localhost:5253
+
+GET {{OpenApiWeb_HostAddress}}/v1/pets
+Accept: application/json
+
+###

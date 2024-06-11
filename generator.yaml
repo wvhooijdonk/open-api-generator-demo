@@ -1,0 +1,9 @@
+generatorName: aspnetcore
+outputDir: .
+inputSpec: petstore.yaml
+templateDir: templates
+additionalProperties:
+  packageName: OpenApiLib
+  aspnetCoreVersion: "6.0"
+  buildTarget: library
+  isLibrary: true
